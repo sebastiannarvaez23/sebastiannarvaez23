@@ -4,4 +4,4 @@ I am an experienced Systems Engineer specializing in web application design and 
 
 ### 🏆 Github Stats:
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannarvaez23&langs_count=10&theme=tokyonight&layout=compact" alt="sebastiannarvaez23"/>
-<img  align="left"  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img  align="right"  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
