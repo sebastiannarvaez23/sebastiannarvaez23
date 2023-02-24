@@ -16,3 +16,15 @@ I am an experienced Systems Engineer specializing in web application design and 
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannarvaez23&langs_count=10&theme=tokyonight&layout=compact" alt="sebastiannarvaez23"/>
 <img  align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### :link: Know more about me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiannarvaezlopera/)
