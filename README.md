@@ -7,6 +7,7 @@ I am an experienced Systems Engineer specializing in web application design and 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88569352/218375244-c01d6fe3-2d15-44ea-af55-380ba687805c.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218375249-ff4058c0-da3d-483b-a8d9-72983f138765.png" width="auto" height="100">
+  <img src="https://user-images.githubusercontent.com/88569352/229401457-f6d0b429-d9d0-46e4-a852-4a055ec9cae1.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218375250-dc15793f-b2a0-4ea2-8e51-c2ee8829f1d5.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="100">
