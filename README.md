@@ -1,6 +1,6 @@
-Hi there, I am Sebastian Narvaez 👋
+<h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
-I am an experienced Systems Engineer specializing in web application design and development. I am proficient in Java, JavaScript, Python, and C++ and have skills in tools such as Django, ReactJS, and Apache deployments. I excel in UI design, SAP integrations, and automation solutions with Automation Anywhere 360. I am an empathetic team player with exceptional communication and project management skills.
+<div align="center">I am a Systems Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, SAP integrations, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
 <br>
 <br>
 <br>
@@ -10,13 +10,16 @@ I am an experienced Systems Engineer specializing in web application design and 
   <img src="https://user-images.githubusercontent.com/88569352/229401457-f6d0b429-d9d0-46e4-a852-4a055ec9cae1.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="100">
   <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="100">
+  <img src="https://user-images.githubusercontent.com/88569352/229976087-c6d3eba8-ef91-4ff4-8260-a8f38a88093e.png" width="auto" height="90">
 </p>
+
 
 ### 🏆 Github Stats:
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannarvaez23&langs_count=10&theme=tokyonight&layout=compact" alt="sebastiannarvaez23"/>
 <img  align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
+<br>
 <br>
 <br>
 <br>
