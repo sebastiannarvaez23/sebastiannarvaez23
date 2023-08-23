@@ -5,12 +5,14 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88569352/218375244-c01d6fe3-2d15-44ea-af55-380ba687805c.png" width="auto" height="100">
-  <img src="https://user-images.githubusercontent.com/88569352/218375249-ff4058c0-da3d-483b-a8d9-72983f138765.png" width="auto" height="100">
-  <img src="https://user-images.githubusercontent.com/88569352/229401457-f6d0b429-d9d0-46e4-a852-4a055ec9cae1.png" width="auto" height="100">
-  <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="100">
-  <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="100">
-  <img src="https://user-images.githubusercontent.com/88569352/229976087-c6d3eba8-ef91-4ff4-8260-a8f38a88093e.png" width="auto" height="90">
+  <img src="https://user-images.githubusercontent.com/88569352/218375244-c01d6fe3-2d15-44ea-af55-380ba687805c.png" width="auto" height="80">
+  <img src="https://user-images.githubusercontent.com/88569352/218375249-ff4058c0-da3d-483b-a8d9-72983f138765.png" width="auto" height="80">
+  <img src="https://user-images.githubusercontent.com/88569352/229401457-f6d0b429-d9d0-46e4-a852-4a055ec9cae1.png" width="auto" height="80">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/22258d5a-b422-4b61-8587-012452e1d209" width="auto" height="75">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/0148d64f-e102-46a0-a23a-08f14029421e" width="auto" height="70">
+  <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="80">
+  <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="80">
+  <img src="https://user-images.githubusercontent.com/88569352/229976087-c6d3eba8-ef91-4ff4-8260-a8f38a88093e.png" width="auto" height="70">
 </p>
 
 
