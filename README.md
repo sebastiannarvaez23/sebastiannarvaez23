@@ -1,5 +1,9 @@
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
+<p align="center" >
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&color=1A2F52&center=true&vCenter=true&lines=Full Stack Software Develeoper;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
+</p>
+
 <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/c4f3d141-267c-42d3-8c8f-47de27363e4b" width="100%" height="auto">
 <br>
 <br>
