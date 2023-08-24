@@ -1,4 +1,4 @@
-<img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/ecf7ffbc-9624-4e42-8506-8e7fbb92b715" width="100%" height="auto">
+<img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/c4f3d141-267c-42d3-8c8f-47de27363e4b" width="100%" height="auto">
 
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
@@ -15,6 +15,7 @@
   <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="80">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/53c363a8-4cd4-4d76-8c29-ccb2cf98e55e" width="auto" height="73">
   <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="80">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/b514ae1f-5d6f-4ed7-a973-244957f23430" width="auto" height="70">
 </p>
 
 
