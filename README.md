@@ -9,22 +9,23 @@
 <br>
 <hr />
 
-### 🔨 Experience
-Software Analyst
-Gestionar TIC · Full-time
-May 2020 - Jun 2021
-Cali, Valle del Cauca, Colombia · Hybrid
+## 🔨 Experience
+
+- <b> Full Stack Developer </b> | CODESA · Full-time | Aug 2023 - Currently | Cali, Colombia · Remote
+- <b> RPA Engineer </b> | COOMEVA · Full-time | Jun 2022 - Aug 2023 · 1 yr 3 mos | Cali, Colombia · Remote
+- <b> Software Engineer </b> | Johanna Ortiz · Full-time | Jun 2021 - Jun 2022 · 1 yr 1 mo | Cali, Colombia · On-site
+- <b> Software Analyst </b> | Gestionar TIC · Full-time | May 2020 - Jun 2021 | Cali, Colombia · Hybrid
 <hr />
 
-### 👨‍🎓 Education
-
-<hr />
-
-### 📜 Certifications
+## 👨‍🎓 Education
 
 <hr />
 
-### 👨‍💻 Stack Technology
+## 📜 Certifications
+
+<hr />
+
+## 👨‍💻 Stack Technology
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88569352/218375244-c01d6fe3-2d15-44ea-af55-380ba687805c.png" width="auto" height="80">
@@ -39,7 +40,7 @@ Cali, Valle del Cauca, Colombia · Hybrid
 </p>
 <br>
 
-### 🏆 Github Stats:
+## 🏆 Github Stats:
 
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannarvaez23&langs_count=10&theme=tokyonight&layout=compact" alt="sebastiannarvaez23"/>
 <img  align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
