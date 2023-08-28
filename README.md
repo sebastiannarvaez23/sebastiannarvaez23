@@ -19,10 +19,15 @@
 
 ## 👨‍🎓 Education
 
+- <b> Santiago de Cali University </b> | System Engineer | 2023.
+
+#### Courses
+- <b> Platzi </b> | Backend Development Career with Python and Django | 2022. <a target="_blank" href="https://platzi.com/p/sebastiannarvaezlopera/learning-path/3-backend-python/diploma/detalle/">Certificate</a>
+- <b> Udemy </b> | Django Hands-On: Backend Web Development with Python | 2022. <a target="_blank" href="https://www.udemy.com/certificate/UC-de97f4cf-4742-4fe2-880c-da56fafb33f8/">Certificate</a>
 <hr />
 
 ## 📜 Certifications
-
+- <b> Automation Anywhere </b> | Automation Anywhere Certified Advance RPA Professional (Automation 360) | 2022. <a target="_blank" href="https://certificates.automationanywhere.com/3bc11da1-776f-42d3-8e4c-00eaf66a57ea">Certificate</a>
 <hr />
 
 ## 👨‍💻 Stack Technology
