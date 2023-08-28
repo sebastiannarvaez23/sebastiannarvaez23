@@ -9,7 +9,9 @@
 <br>
 <div align="center">I am a Systems Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, SAP integrations, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
 <br>
-<br>
+<hr />
+
+### 👨‍💻 Stack Technology
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88569352/218375244-c01d6fe3-2d15-44ea-af55-380ba687805c.png" width="auto" height="80">
@@ -22,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="80">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/b514ae1f-5d6f-4ed7-a973-244957f23430" width="auto" height="65">
 </p>
-
+<br>
 
 ### 🏆 Github Stats:
 
