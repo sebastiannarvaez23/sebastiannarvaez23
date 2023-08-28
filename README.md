@@ -1,14 +1,27 @@
+<img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/769da41e-dacb-4575-a157-d13620d10ebd" width="100%" height="auto">
+
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
 <p align="center" >
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&color=1A2F52&center=true&vCenter=true&lines=Full Stack Software Develeoper;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
 </p>
-
-<img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/769da41e-dacb-4575-a157-d13620d10ebd" width="100%" height="auto">
-<br>
-<br>
 <div align="center">I am a Systems Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, SAP integrations, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
 <br>
+<hr />
+
+### 🔨 Experience
+Software Analyst
+Gestionar TIC · Full-time
+May 2020 - Jun 2021
+Cali, Valle del Cauca, Colombia · Hybrid
+<hr />
+
+### 👨‍🎓 Education
+
+<hr />
+
+### 📜 Certifications
+
 <hr />
 
 ### 👨‍💻 Stack Technology
