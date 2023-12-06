@@ -1,5 +1,3 @@
-<img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/769da41e-dacb-4575-a157-d13620d10ebd" width="100%" height="auto">
-
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
 <p align="center" >
