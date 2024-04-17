@@ -35,7 +35,8 @@
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/22258d5a-b422-4b61-8587-012452e1d209" width="auto" height="75">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/0148d64f-e102-46a0-a23a-08f14029421e" width="auto" height="70">
   <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="80">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/53c363a8-4cd4-4d76-8c29-ccb2cf98e55e" width="auto" height="73">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/7acd52ef-7351-4bb9-b0b3-b8234c4056de" width="auto" height="75">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/53c363a8-4cd4-4d76-8c29-ccb2cf98e55e" width="auto" height="80">
   <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="80">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/b514ae1f-5d6f-4ed7-a973-244957f23430" width="auto" height="65">
 </p>
