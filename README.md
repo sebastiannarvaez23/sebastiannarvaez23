@@ -22,6 +22,7 @@
 #### Courses
 - <b> Platzi </b> | Backend Development Career with Python and Django | 2022. <a target="_blank" href="https://platzi.com/p/sebastiannarvaezlopera/learning-path/3-backend-python/diploma/detalle/">Certificate</a>
 - <b> Udemy </b> | Django Hands-On: Backend Web Development with Python | 2022. <a target="_blank" href="https://www.udemy.com/certificate/UC-de97f4cf-4742-4fe2-880c-da56fafb33f8/">Certificate</a>
+- <b> Udemy </b> | React - Guía definitiva: hooks router redux next | 2024. <a target="_blank" href="https://www.udemy.com/certificate/UC-1f619c4b-3e94-4a5f-82d7-2128dc49ccf6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a>
 <hr />
 
 ## 📜 Certifications
