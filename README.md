@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88569352/218375249-ff4058c0-da3d-483b-a8d9-72983f138765.png" width="auto" height="80">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/22258d5a-b422-4b61-8587-012452e1d209" width="auto" height="75">
+  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/301e8207-4374-4735-b873-b6cd51d9f913" width="auto" height="75">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/0148d64f-e102-46a0-a23a-08f14029421e" width="auto" height="70">
   <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="80">
   <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/7acd52ef-7351-4bb9-b0b3-b8234c4056de" width="auto" height="75">
