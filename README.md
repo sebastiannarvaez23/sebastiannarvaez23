@@ -9,10 +9,10 @@
 
 ## 🔨 Experience
 
-- <b> Full Stack Developer </b> | CODESA · Full-time | Aug 2023 - Currently | Cali, Colombia · Remote
+- <b> Full Stack Dev </b> | CODESA · Full-time | Aug 2023 - Currently | Cali, Colombia · Remote
 - <b> RPA Engineer </b> | COOMEVA · Full-time | Jun 2022 - Aug 2023 · 1 yr 3 mos | Cali, Colombia · Remote
-- <b> Software Engineer </b> | Johanna Ortiz · Full-time | Jun 2021 - Jun 2022 · 1 yr 1 mo | Cali, Colombia · On-site
-- <b> Software Analyst </b> | Gestionar TIC · Full-time | May 2020 - Jun 2021 | Cali, Colombia · Hybrid
+- <b> Software Dev Engineer </b> | Johanna Ortiz · Full-time | Jun 2021 - Jun 2022 · 1 yr 1 mo | Cali, Colombia · On-site
+- <b> Software Dev Analyst </b> | Gestionar TIC · Full-time | May 2020 - Jun 2021 | Cali, Colombia · Hybrid
 <hr />
 
 ## 👨‍🎓 Education
