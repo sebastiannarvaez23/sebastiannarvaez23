@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
 <p align="center" >
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&color=1A2F52&center=true&vCenter=true&lines=Software Developer;Always+keep+learning+new+things" align='center' alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&color=1A2F52&center=true&vCenter=true&lines=Software Developer;Always keep learning new things; JAVA | TYPESCRIPT | PYTHON" align='center' alt="Typing SVG" />
 </p>
 <div align="center">I am a Systems Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, SAP integrations, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
 <br>
