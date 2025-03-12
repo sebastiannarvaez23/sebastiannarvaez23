@@ -31,6 +31,7 @@
 - <b> Udemy </b> | Django Hands-On: Backend Web Development with Python | 2022. <a target="_blank" href="https://www.udemy.com/certificate/UC-de97f4cf-4742-4fe2-880c-da56fafb33f8/">Certificate</a>
 - <b> Udemy </b> | React - Ultimate guide: hooks router redux next | 2024. <a target="_blank" href="https://www.udemy.com/certificate/UC-1f619c4b-3e94-4a5f-82d7-2128dc49ccf6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a>
 - <b> Udemy </b> | Angular | 2024. <a target="_blank" href="https://www.udemy.com/certificate/UC-2f695253-de0d-45e5-ba61-5534bfcc4425/">Certificate</a>
+- <b> Udemy </b> | SpringBoot Microservices | 2025. <a target="_blank" href="https://www.udemy.com/certificate/UC-eea01263-079b-424b-95e1-0a7a3edd6af8/">Certificate</a>
 <hr />
 
 ## 📜 Certifications
