@@ -10,7 +10,7 @@
   <img src="https://github.com/user-attachments/assets/f94fbd17-4010-478f-9a11-03354ef90237" width="auto" height="30">
 </p>
 
-<div align="center">I am a Systems Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
+<div align="center">I am a Computer Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
 <br>
 <hr />
 
