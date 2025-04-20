@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4996&pause=1000&color=1A2F52&center=true&vCenter=true&lines=Software Developer;Always keep learning new things; JAVA | TYPESCRIPT | PYTHON" align='center' alt="Typing SVG" />
-</p>
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/111ee231-1322-4767-9872-89ca45c3c62c" width="auto" height="30">
   <img src="https://github.com/user-attachments/assets/7de1e425-c879-4e5a-8fa5-2d5db4882a23" width="auto" height="30">
