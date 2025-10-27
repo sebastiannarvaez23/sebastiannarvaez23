@@ -12,7 +12,6 @@
 
 ## 🔨 Experience
 
-- <b> Software Engineer </b> | Tata Consultancy Services · Full-time | Aug 2025 - Currently | Cali, Colombia · Remote
 - <b> Software Engineer </b> | CODESA · Full-time | Aug 2023 - Aug 2025 | Cali, Colombia · Remote
 - <b> RPA Software Engineer </b> | COOMEVA · Full-time | Jun 2022 - Aug 2023 · 1 yr 3 mos | Cali, Colombia · Remote
 - <b> Software Engineer </b> | Johanna Ortiz · Full-time | Jun 2021 - Jun 2022 · 1 yr 1 mo | Cali, Colombia · On-site
