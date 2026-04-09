@@ -53,15 +53,6 @@
 
 <img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ### :link: Know more about me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiannarvaezlopera/)
