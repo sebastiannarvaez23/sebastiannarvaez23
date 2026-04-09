@@ -51,7 +51,6 @@
 
 ## 🏆 Github Stats:
 
-<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannarvaez23&langs_count=10&theme=tokyonight&layout=compact" alt="sebastiannarvaez23"/>
 <img  align="right" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 <br>
