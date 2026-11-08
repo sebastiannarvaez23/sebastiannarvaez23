@@ -1,58 +1,46 @@
-<h1 align="center">Hi there, I am Sebastian Narvaez 👋</h1>
+# Sebastian Narvaez
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/111ee231-1322-4767-9872-89ca45c3c62c" width="auto" height="30">
-  <img src="https://github.com/user-attachments/assets/7de1e425-c879-4e5a-8fa5-2d5db4882a23" width="auto" height="30">
-  <img src="https://github.com/user-attachments/assets/f94fbd17-4010-478f-9a11-03354ef90237" width="auto" height="30">
-</p>
-
-<div align="center">I am a Computer Engineer specialized in web application design and development with skills in Java, JavaScript and Python. I excel in UI design, construction of backends based on microservices, productive deployments of solutions, and automation solutions with Automation Anywhere 360. I am an empathetic team player and passionate about staying up-to-date with the latest trends and technologies.</div>
-<br>
-<hr />
-
-## 🔨 Experience
-
-- <b> Software Engineer </b> | CODESA · Full-time | Aug 2023 - Currently | Cali, Colombia · Remote
-- <b> RPA Software Engineer </b> | COOMEVA · Full-time | Jun 2022 - Aug 2023 · 1 yr 3 mos | Cali, Colombia · Remote
-- <b> Software Engineer </b> | Johanna Ortiz · Full-time | Jun 2021 - Jun 2022 · 1 yr 1 mo | Cali, Colombia · On-site
-- <b> Software Analyst </b> | Gestionar TIC · Full-time | May 2020 - Jun 2021 | Cali, Colombia · Hybrid
-<hr />
-
-## 👨‍🎓 Education
-
-- <b> Santiago de Cali University </b> | System Engineer | 2023.
-
-#### Courses
-- <b> Udemy </b> | Ultimate Docker | 2025. <a target="_blank" href="https://www.udemy.com/certificate/UC-de691ecc-d7a5-4fd5-8d31-3c5a0e56bc1c/">Certificate</a>
-- <b> Udemy </b> | SpringBoot Microservices | 2025. <a target="_blank" href="https://www.udemy.com/certificate/UC-eea01263-079b-424b-95e1-0a7a3edd6af8/">Certificate</a>
-- <b> Udemy </b> | Angular | 2024. <a target="_blank" href="https://www.udemy.com/certificate/UC-2f695253-de0d-45e5-ba61-5534bfcc4425/">Certificate</a>
-- <b> Udemy </b> | React - Ultimate guide: hooks router redux next | 2024. <a target="_blank" href="https://www.udemy.com/certificate/UC-1f619c4b-3e94-4a5f-82d7-2128dc49ccf6/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com">Certificate</a>
-- <b> Udemy </b> | Django Hands-On: Backend Web Development with Python | 2022. <a target="_blank" href="https://www.udemy.com/certificate/UC-de97f4cf-4742-4fe2-880c-da56fafb33f8/">Certificate</a>
-- <b> Platzi </b> | Backend Development Career with Python and Django | 2022. <a target="_blank" href="https://platzi.com/p/sebastiannarvaezlopera/learning-path/3-backend-python/diploma/detalle/">Certificate</a>
-<hr />
-
-## 📜 Certifications
-- <b> Automation Anywhere </b> | Automation Anywhere Certified Advance RPA Professional (Automation 360) | 2022. <a target="_blank" href="https://certificates.automationanywhere.com/3bc11da1-776f-42d3-8e4c-00eaf66a57ea">Certificate</a>
-<hr />
-
-## 👨‍💻 Stack Technology
-<br>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/88569352/218375249-ff4058c0-da3d-483b-a8d9-72983f138765.png" width="auto" height="80">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/22258d5a-b422-4b61-8587-012452e1d209" width="auto" height="75">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/301e8207-4374-4735-b873-b6cd51d9f913" width="auto" height="75">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/0148d64f-e102-46a0-a23a-08f14029421e" width="auto" height="70">
-  <img src="https://user-images.githubusercontent.com/88569352/218375255-d9a28190-10e2-44ad-b13d-721292e46815.png" width="auto" height="80">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/7acd52ef-7351-4bb9-b0b3-b8234c4056de" width="auto" height="75">
-  <img src="https://user-images.githubusercontent.com/88569352/218376962-a4a1839f-684e-4da1-9233-7cc5edcd379f.png" width="auto" height="80">
-  <img src="https://github.com/sebastiannarvaez23/sebastiannarvaez23/assets/88569352/b514ae1f-5d6f-4ed7-a973-244957f23430" width="auto" height="65">
+  <strong>SOFTWARE ENGINEER · ENTERPRISE TECHNOLOGY · ARTIFICIAL INTELLIGENCE</strong>
+  <br/>
+  Building software systems that solve real business problems.
 </p>
-<br>
 
-## 🏆 Github Stats:
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastiannarvaezlopera/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Colombia-555555?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-555555?style=flat-square" />
+</p>
 
-<img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastiannarvaez23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+---
 
-### :link: Know more about me
+### About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastiannarvaezlopera/)
+I'm a Software Engineer focused on designing and developing enterprise software, scalable architectures, and intelligent business solutions.
+
+My approach combines software engineering, automation, and artificial intelligence to build technology that simplifies operations and creates measurable business value.
+
+Currently building enterprise technology products and exploring the next generation of AI-powered business applications at **Neurana**.
+
+### What I Do
+
+| Area | Focus |
+|:--|:--|
+| **Software Engineering** | Enterprise applications, SaaS & scalable systems |
+| **Architecture** | Microservices, Clean Architecture & distributed systems |
+| **Artificial Intelligence** | AI-powered applications, RAG & intelligent agents |
+| **Automation** | Business process automation & system integrations |
+
+### Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastiannarvaezlopera/">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Engineering with purpose. Building technology for what comes next.</sub>
+</p>
