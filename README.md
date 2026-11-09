@@ -31,35 +31,17 @@ Actualmente, impulso el desarrollo de productos tecnológicos empresariales y nu
 
 ## 02 / Áreas de especialización
 
-**01. Ingeniería de software**
+**01. Ingeniería de software** — Aplicaciones empresariales robustas y escalables.  
+`SAAS` `BACKEND` `APIS`
 
-Construcción de aplicaciones empresariales robustas, mantenibles y escalables.
+**02. Arquitectura de software** — Sistemas modulares y distribuidos.  
+`MICROSERVICIOS` `CLEAN ARCHITECTURE`
 
-`SAAS` `BACKEND` `API DEVELOPMENT` `BUSINESS APPLICATIONS`
+**03. Inteligencia artificial** — IA aplicada a productos y procesos empresariales.  
+`IA GENERATIVA` `RAG` `AGENTES IA`
 
----
-
-**02. Arquitectura de software**
-
-Diseño de sistemas modulares, distribuidos y preparados para evolucionar.
-
-`MICROSERVICIOS` `CLEAN ARCHITECTURE` `DISTRIBUTED SYSTEMS`
-
----
-
-**03. Inteligencia artificial**
-
-Integración de capacidades inteligentes en aplicaciones y procesos empresariales.
-
-`IA GENERATIVA` `RAG` `AGENTES INTELIGENTES`
-
----
-
-**04. Automatización empresarial**
-
-Diseño de soluciones que conectan sistemas y transforman procesos operativos.
-
-`WORKFLOW AUTOMATION` `RPA` `SYSTEM INTEGRATIONS`
+**04. Automatización empresarial** — Integración de sistemas y optimización de procesos.  
+`WORKFLOWS` `RPA` `INTEGRACIONES`
 
 ---
 
