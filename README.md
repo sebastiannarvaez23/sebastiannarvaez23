@@ -21,33 +21,15 @@ Diseño y desarrollo soluciones de software que ayudan a las empresas a optimiza
 
 ## 01 / Perfil profesional
 
-Soy Ingeniero de Software enfocado en la construcción de soluciones tecnológicas empresariales, arquitecturas escalables y aplicaciones inteligentes.
+Ingeniero de Software enfocado en soluciones empresariales, arquitecturas escalables, inteligencia artificial y automatización. Actualmente desarrollo productos tecnológicos y soluciones de IA a través de **Neurana**.
 
-Combino ingeniería de software, automatización e inteligencia artificial para desarrollar tecnología que simplifique procesos, resuelva problemas complejos y genere valor para las organizaciones.
+## 02 / Especialidades
 
-Actualmente, impulso el desarrollo de productos tecnológicos empresariales y nuevas aplicaciones de IA a través de **Neurana**.
-
----
-
-## 02 / Áreas de especialización
-
-**01. Ingeniería de software** — Aplicaciones empresariales robustas y escalables.  
-`SAAS` `BACKEND` `APIS`
-
-**02. Arquitectura de software** — Sistemas modulares y distribuidos.  
-`MICROSERVICIOS` `CLEAN ARCHITECTURE`
-
-**03. Inteligencia artificial** — IA aplicada a productos y procesos empresariales.  
-`IA GENERATIVA` `RAG` `AGENTES IA`
-
-**04. Automatización empresarial** — Integración de sistemas y optimización de procesos.  
-`WORKFLOWS` `RPA` `INTEGRACIONES`
-
----
+`INGENIERÍA DE SOFTWARE` `ARQUITECTURA` `INTELIGENCIA ARTIFICIAL` `AUTOMATIZACIÓN` `SAAS` `MICROSERVICIOS` `RAG` `AGENTES IA` `INTEGRACIONES`
 
 ## 03 / Conectemos
 
-Siempre abierto a intercambiar ideas sobre ingeniería, arquitectura de software, inteligencia artificial y nuevas oportunidades tecnológicas.
+Abierto a compartir ideas, colaborar y explorar oportunidades en ingeniería de software e inteligencia artificial.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sebastiannarvaezlopera/">
