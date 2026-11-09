@@ -19,15 +19,15 @@ Diseño y desarrollo soluciones de software que ayudan a las empresas a optimiza
 
 ---
 
-## 01 / Perfil profesional
+## Perfil profesional
 
 Ingeniero de Software enfocado en soluciones empresariales, arquitecturas escalables, inteligencia artificial y automatización. Actualmente desarrollo productos tecnológicos y soluciones de IA a través de **Neurana**.
 
-## 02 / Especialidades
+## Especialidades
 
 `INGENIERÍA DE SOFTWARE` `ARQUITECTURA` `INTELIGENCIA ARTIFICIAL` `AUTOMATIZACIÓN` `SAAS` `MICROSERVICIOS` `RAG` `AGENTES IA` `INTEGRACIONES`
 
-## 03 / Conectemos
+## Conectemos
 
 Abierto a compartir ideas, colaborar y explorar oportunidades en ingeniería de software e inteligencia artificial.
 
